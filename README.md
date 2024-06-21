@@ -1,4 +1,4 @@
-# DiceGame# Othello
+# DiceGame#
 
 ##Screen Shoot##
 ![](screenshot1.jpg)
