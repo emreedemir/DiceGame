@@ -1,4 +1,4 @@
 # DiceGame#
 
 ##Screen Shoot##
-![](screenshot1.jpg)
+![](screenshot1.png)
